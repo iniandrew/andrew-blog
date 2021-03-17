@@ -1,9 +1,9 @@
-baseurl = "https://iniandrew.github.io"
+baseurl = "https://iniandrew.github.io/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
 title = "Chrisdion Andrew"
-disqusShortname = "hugo-theme-stack"
+disqusShortname = "iniandrew"
 DefaultContentLanguage = "en"
 
 [permalinks]
@@ -16,7 +16,7 @@ featuredImageField = "image"
 rssFullContent = true
 
   [params.footer]
-  since = 2_020
+  since = 2020
 
   [params.dateFormat]
   published = "Jan 02, 2006"
@@ -58,6 +58,7 @@ rssFullContent = true
     limit = 10
 
 [params.opengraph.twitter]
+site = "endru48"
 card = "summary_large_image"
 
 [params.defaultImage.opengraph]
@@ -66,7 +67,7 @@ local = false
 
   [params.colorScheme]
   toggle = true
-  default = "auto"
+  default = "light"
 
 [params.imageProcessing.cover]
 enabled = true

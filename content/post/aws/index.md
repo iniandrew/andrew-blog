@@ -1,12 +1,12 @@
 ---
 author: "Chrisdion Andrew"
-title: "{{ replace .Name "-" " " | title }}"
+title: "Aws"
 description: 
-date: {{ .Date }}
+date: 2021-03-16T16:53:00+07:00
 tags: []
 categories: []
 series: []
 aliases: []
 image: 
-draft: false
+draft: true
 ---

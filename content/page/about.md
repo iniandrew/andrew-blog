@@ -12,4 +12,4 @@ menu:
         pre: user
 ---
 
-lorem ipsum dolor sit amet
+Hi, i'm Chrsdion Andrew :)
